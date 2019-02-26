@@ -1,1 +1,1 @@
-# FibonacciNumber
+# It calculates n-factorial, n! .
